@@ -1,0 +1,4 @@
+jqSeed
+======
+
+jQuery plugin template
